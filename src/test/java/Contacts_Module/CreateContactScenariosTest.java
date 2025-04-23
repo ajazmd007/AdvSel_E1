@@ -21,6 +21,7 @@ import POMPages.HomePomPage;
 import POMPages.OrgDetailPomPage;
 import POMPages.OrganizationPomPage;
 
+//Changes done in Contact scenario
 public class CreateContactScenariosTest extends Baseclass {
 
 	@Test(groups = "smoke", retryAnalyzer = ListenersUtility.RetryAnalyser_utility.class)
