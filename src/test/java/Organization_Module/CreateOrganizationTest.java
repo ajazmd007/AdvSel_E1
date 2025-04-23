@@ -15,6 +15,7 @@ import POMPages.HomePomPage;
 import POMPages.OrgDetailPomPage;
 import POMPages.OrganizationPomPage;
 
+//Check GIT Conflict
 public class CreateOrganizationTest extends Baseclass {
 
 	@Test(groups = "smoke")
